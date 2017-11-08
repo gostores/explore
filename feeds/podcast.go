@@ -1,4 +1,4 @@
-package feed
+package feeds
 
 import (
 	"encoding/xml"
