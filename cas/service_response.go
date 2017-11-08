@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/golang/glog"
-	"gopkg.in/yaml.v2"
+	"github.com/gostores/yaml"
 )
 
 // AuthenticationError Code values
