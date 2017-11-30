@@ -1,7 +1,3 @@
-/*=================================
-* Copyright(c)2015-2016 gostores
-* From: github.com/mssola/user_agent
-*=================================*/
 package useragent
 
 import (

@@ -1,1 +1,0 @@
-# cachecontrol: HTTP Caching Parser and Interpretation
